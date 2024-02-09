@@ -1,10 +1,10 @@
 Package: myplots.bs
 Title: Package Containing Basic Plotting Functions
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: 
     person('Bram', 'STULTS', , 'bramstults@gmail.com', role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Package provides useful functions for plotting.
+Description: Package provides useful functions for plotting. This includes 'quick' functions, e.g. for histograms and box plots.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
